@@ -1,7 +1,3 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# Ethers Simple Storage
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
-
-## What's included?
-
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+This project is learn about how I can create a program for Simple Storage with Ethers.
