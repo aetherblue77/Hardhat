@@ -37,3 +37,7 @@ module.exports = {
   coinmarketcap: COINMARKETCAP_API_KEY,
   }
 };
+
+module.exports = {
+  solidity: "0.8.8",
+};
