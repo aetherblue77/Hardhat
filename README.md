@@ -1,2 +1,2 @@
-# LEARN ABOUT HARDHAT, SOLIDITY, JAVASCRIPT AND OTHERS
+## LEARN ABOUT HARDHAT, SOLIDITY, JAVASCRIPT AND OTHERS
 In This Github Repository, I will be learning about Hardhat, Solidity, JavaScript and other related topics to create some project smart contracts and DApps.
